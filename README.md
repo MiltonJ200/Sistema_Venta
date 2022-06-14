@@ -7,7 +7,7 @@ Fueron utilizadas un total de 13 librerias para poder ser utilizadas en la inter
 en los diferentes forms
 
 /build/classes/Vista:
-se encuentran los archivos de los forms utilizados en el proyecto.
+Se encuentran los archivos de los forms utilizados en el proyecto.
 
 /build/classes/Img:
 Se encuentran las imagenes utilizadas para los forms.
