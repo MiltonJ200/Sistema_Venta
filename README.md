@@ -17,3 +17,5 @@ Es donde se almacenan las facturas por medio de PDFs.
 
 /build/classes/Reportes:
 Es donde se almacenan los reportes de inventario por medio de archivos de Excel.
+
+Este sistema de ventas fué realizado en un plazo de tiempo de 1 semana
